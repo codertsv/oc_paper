@@ -1,4 +1,4 @@
-codeRtsv organizing committee role and responsibilities paper
+﻿codeRtsv organizing committee role and responsibilities paper
 ==========
 
 This paper documents and describe roles and responsibilities from codeRtsv organizing committee. This is a living paper and it should be modified and updated often to reflect codeRtsv structure, vision, mission and members goals.
@@ -118,50 +118,50 @@ Long term planning and maintenance activities are these that required the consen
 
 Roles and responsibilities associated to community coordination.
 
-- [] Curate Slack channel
-  * [] Slack channel is mostly a self-running environment, but every now and then it would require attention
-  * [] Survey members interest and needs
-- [] Recruit new members and speakers
-- [] Create and maintin partnerships
+- [ ] Curate Slack channel
+  * [ ] Slack channel is mostly a self-running environment, but every now and then it would require attention
+  * [ ] Survey members interest and needs
+- [ ] Recruit new members and speakers
+- [ ] Create and maintin partnerships
 
 
 #### Website maintenance and development
 
 Roles and responsibilities associated to website maintenance and development.
 
-- [] Update dependencies
-- [] Develop new features, and improve old ones
+- [ ] Update dependencies
+- [ ] Develop new features, and improve old ones
 
 #### Recruitment
 
 Recruit new members for the group and organizing committee is an important task to ensure codeRtsv long lasting success. We use the following strategies for recruitment:
 
-- [] Periodic emails through Graduate Research Schools and JCU Colleges, Centres and Units to postgraduate research students.
-- [] Word of mouth
-- [] twitter
-- [] Soft spoken recruitment of new organizing committee members
+- [ ] Periodic emails through Graduate Research Schools and JCU Colleges, Centres and Units to postgraduate research students.
+- [ ] Word of mouth
+- [ ] twitter
+- [ ] Soft spoken recruitment of new organizing committee members
 
 #### Strategic partnerships
 
 We maintain strategic alliances and partnerships with other groups and organizations with similar aims. We seek to create synergy through these alliances and partnerships. The current partnerships are listed below. The organizing committee is encouraged to nurture these, and create new ones.
 
-- [] tRopicR: JCU Cairns R users
-- [] HackyHour: JCU eResearch and QCIF
+- [ ] tRopicR: JCU Cairns R users
+- [ ] HackyHour: JCU eResearch and QCIF
 
 #### Planning and scheduling sessions
 
 Sessions and events are normally scheduled weeks ahead of due date. Finding speakers and instructors can be difficult due to time conflicts and availability. Thus, a general advice is to book down a speaker or instructor during the planning and scheduling stage.
 
-- [] Identify session and event topics
-- [] Find instructor and speaker with expertise and time
-- [] Schedule event
+- [ ] Identify session and event topics
+- [ ] Find instructor and speaker with expertise and time
+- [ ] Schedule event
 
 #### Events
 
 In addition to our weekly sessions, codeRtsv is seeking to create additional events to target intermediate and advance members, for instance:
 
-- [] Hackathons
-- [] Intermediate courses/sessions
+- [ ] Hackathons
+- [ ] Intermediate courses/sessions
 
 #### Marketing
 
@@ -181,38 +181,38 @@ Currently codeRtsv organize weekly training sessions on research computing. Our 
 
 Creating didactic and friendly spaces for people to learn and promote programming literacy is at the heart of our group. One of our strategies to achieve this is our weekly physical or virtual sessions led by our members or guests. This section lists some of the activities and responsibilities that will ensure planning, advertising and running sessions smoothly.
 
-- [] Schedule speaker/facilitator: invite and add speaker/facilitator to a calendar event for the session
+- [ ] Schedule speaker/facilitator: invite and add speaker/facilitator to a calendar event for the session
   Time: weeks ahead of session
-- [] Confirm speaker/facilitator availability
+- [ ] Confirm speaker/facilitator availability
   Time: one week before session
-- [] Consult speaker's preference on recording and sharing their session (No, Yes, privately, publicly)
+- [ ] Consult speaker's preference on recording and sharing their session (No, Yes, privately, publicly)
   Time: one week before session
-- [] Confirm the session space and/or virtual room
+- [ ] Confirm the session space and/or virtual room
   Time: one week before session
-- [] Add event title and description to codeRtsv calendar (currently hosted with Google)
+- [ ] Add event title and description to codeRtsv calendar (currently hosted with Google)
   Time: one week before session
-- [] Prepare advertising text - for convenience we currently write 280 character invitation
+- [ ] Prepare advertising text - for convenience we currently write 280 character invitation
   Time: one week before session
-- [] Share session advertisement on Twitter
+- [ ] Share session advertisement on Twitter
   Time: 3-4 days before session
-- [] Share session advertisement and location on Slack
+- [ ] Share session advertisement and location on Slack
   Time: 3-4 days before session
-- [] Send session advertisement through email list
+- [ ] Send session advertisement through email list
   Time: 1-2 days before session
-- [] Share session advertisement on Twitter
+- [ ] Share session advertisement on Twitter
   Time: 1-3 hours previous session
-- [] Introduce speaker/facilitator at the beginning of the session
-- [] Start recording (if speaker/facilitator has agreed)
-- [] Monitor and moderate questions in the room or chat
-- [] Keep speaker/facilitator on time
-- [] Record number of attendees
-- [] Run the lucky attendee codeRtsv-mug raffle
-- [] Note, curate and share any resources used during the session
-- [] Fill sessions' log sheet in Google documents
-- [] Obtain, (edit?) and publish recording in codeRtsv YouTube channel
-- [] Update codeRtsv website: speaker, session title and description, resources used, extract
-- [] Conduct a session debrief (if required: positives, aspects to improve, new opportunities)
+- [ ] Introduce speaker/facilitator at the beginning of the session
+- [ ] Start recording (if speaker/facilitator has agreed)
+- [ ] Monitor and moderate questions in the room or chat
+- [ ] Keep speaker/facilitator on time
+- [ ] Record number of attendees
+- [ ] Run the lucky attendee codeRtsv-mug raffle
+- [ ] Note, curate and share any resources used during the session
+- [ ] Fill sessions' log sheet in Google documents
+- [ ] Obtain, (edit?) and publish recording in codeRtsv YouTube channel
+- [ ] Update codeRtsv website: speaker, session title and description, resources used, extract
+- [ ] Conduct a session debrief (if required: positives, aspects to improve, new opportunities)
 
 
 ---------
-People is the organizing committee is not required to be a coder. We welcome the enthusiasm and organizational skills from anyone. We will appreciate your help and input in coordinating and leading our group.  
+People in the organizing committee is not required to be a coder. We welcome your enthusiasm and organizational skills. We will appreciate your help and input in coordinating and leading our group.  
