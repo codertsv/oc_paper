@@ -86,7 +86,7 @@ Our Slack account host our vibrant community and is the place where most of our 
 
 > Current maintainer: unknown
 
-> Host/Owner: unknown
+> Host/Owner: Pete
 
 ### JCU email account and mailchimp
 
