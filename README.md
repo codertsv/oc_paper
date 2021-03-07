@@ -50,7 +50,7 @@ We maintain a Google calendar which is linked to codeRtsv and JCU HackyHour slac
 
 ### Google documents
 
-A codeRtsv spreadsheet is maintained in Google documents (under a member's account?). This spreadsheet contains a sheet for each of the following: sessions' log, list of member and their emails, list of future topics, pictures of kittens, list of emails used in mailchimp, meeting stats, and list of projects. The sessions' log, and members' emails are probably the two most important assets stored in this tool.
+A codeRtsv spreadsheet is maintained in Google documents (under a member's account?). This spreadsheet contains a sheet for each of the following: sessions' log, list of member and their emails, list of future topics, pictures of kittens, list of emails used in mailchimp, meeting stats, and list of projects. The sessions' log, and members' emails are probably the two most important assets stored in this tool. 
 
 > Current access to Google documents: Natalia, Wytamma, Legana, Kevin, Peter, César, Ira, Jia, and Chlöe
 
@@ -66,7 +66,7 @@ The [YouTube channel](https://www.youtube.com/channel/UCBYwP7mrBxJSZbPg-U3uR-A) 
 
 ### GitHub account
 
-One of codeRtsv biggest assets is our [GitHub account](https://github.com/codertsv). Several repositories associated to past sessions, current projects, codeRtsv papers, and our webiste are maintained in GitHub.
+One of codeRtsv biggest assets is our [GitHub account](https://github.com/codertsv). Several repositories associated to past sessions, current projects, codeRtsv papers, and our webiste are maintained in GitHub. All codertsv github [members](https://github.com/orgs/codertsv/people) have `write` access to all repos. 
 
 > Current access: Alfonso, Bruna, César, Kevin, Jelliman17 (?), Lauren640 (?), Lorenzo, RhysGillman(?), Stewart, Chlöe, Ira, Wytamma, and Peter.
 
