@@ -1,7 +1,7 @@
 ﻿codeRtsv organizing committee role and responsibilities paper
 ==========
 
-This paper documents and describe roles and responsibilities from codeRtsv organizing committee. This is a living paper and it should be modified and updated often to reflect codeRtsv structure, vision, mission and members goals.
+This paper documents and describes roles and responsibilities for the **codeRtsv** organizing committee. This is a living paper and it should be modified and updated often to reflect codeRtsv structure, vision, mission and members goals.
 
 ## Outline
 
@@ -82,7 +82,7 @@ One of codeRtsv biggest assets is our [GitHub account](https://github.com/codert
 
 ### Slack account
 
-Our Slack account host our vibrant community and is the place where most of our interactions happens. We currently have 139 members.
+Our Slack account hosts our vibrant community and is the place where most of our interactions happens. We currently have 139 members.
 
 > Current maintainer: unknown
 
@@ -112,7 +112,7 @@ This section list the activities, roles and responsibilities that members of the
 
 ### Long term planning and maintenance
 
-Long term planning and maintenance activities are these that required the consensual thinking of codeRtsv members, including setting goals and the plans to achieve them. Activities listed in this section help us to achieve long term goals such as these described in our [group policies](https://github.com/codertsv/GroupPolicies), or other long term objectives (e.g. maintain or increase the number of members).
+Long term planning and maintenance activities are those that require consensual thinking of codeRtsv members, including setting goals and plans to achieve them. Activities listed in this section help us to achieve long term goals such as those described in our [group policies](https://github.com/codertsv/GroupPolicies), or other long term objectives (e.g. maintain or increase the number of members).
 
 #### Community coordination
 
